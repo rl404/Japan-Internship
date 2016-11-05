@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{473D05F3-6FE9-746B-82CB-6E17E43917C5}") = "TUAT Games", "Assembly-CSharp-firstpass.csproj", "{28D2ED3C-BF4E-2C96-DB16-D6C3DB67C9C0}"
+EndProject
+Project("{473D05F3-6FE9-746B-82CB-6E17E43917C5}") = "TUAT Games", "Assembly-CSharp.csproj", "{D15CA59C-E78D-D0E0-BCD3-72E522D37ED3}"
+EndProject
+Project("{473D05F3-6FE9-746B-82CB-6E17E43917C5}") = "TUAT Games", "Assembly-CSharp-Editor.csproj", "{FD6A685A-7891-0AC1-FA85-86D2ECCDB91F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28D2ED3C-BF4E-2C96-DB16-D6C3DB67C9C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28D2ED3C-BF4E-2C96-DB16-D6C3DB67C9C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28D2ED3C-BF4E-2C96-DB16-D6C3DB67C9C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28D2ED3C-BF4E-2C96-DB16-D6C3DB67C9C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D15CA59C-E78D-D0E0-BCD3-72E522D37ED3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D15CA59C-E78D-D0E0-BCD3-72E522D37ED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D15CA59C-E78D-D0E0-BCD3-72E522D37ED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D15CA59C-E78D-D0E0-BCD3-72E522D37ED3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD6A685A-7891-0AC1-FA85-86D2ECCDB91F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD6A685A-7891-0AC1-FA85-86D2ECCDB91F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD6A685A-7891-0AC1-FA85-86D2ECCDB91F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD6A685A-7891-0AC1-FA85-86D2ECCDB91F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
